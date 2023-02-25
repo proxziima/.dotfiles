@@ -1,0 +1,48 @@
+[Info  - 12:44:11] (2486) Pylance language server 2023.2.40 (pyright 085dfbfa) starting
+[Info  - 12:44:11] (2486) Server root directory: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist
+[Info  - 12:44:11] (2486) Starting service instance "Estudos"
+[Info  - 12:44:12] (2486) Auto-indent enabled
+[Info  - 12:44:13] (2486) Starting service instance "<default>"
+[Info  - 12:44:14] (2486) No pyproject.toml file found.
+[Info  - 12:44:14] (2486) Setting pythonPath for service "<default>": "/bin/python"
+[Warn  - 12:44:14] (2486) stubPath typings is not a valid directory.
+[Info  - 12:44:15] (2486) Assuming Python version 3.10
+[Info  - 12:44:15] (2486) Assuming Python platform Linux
+[Info  - 12:44:18] (2486) Searching for source files
+[Info  - 12:44:18] (2486) No source files found.
+[Info  - 12:44:18] (2486) No configuration file found.
+[Info  - 12:44:18] (2486) No pyproject.toml file found.
+[Info  - 12:44:18] (2486) Setting pythonPath for service "Estudos": "/bin/python"
+[Warn  - 12:44:18] (2486) stubPath /home/vinicius/Documentos/Estudos/typings is not a valid directory.
+[Info  - 12:44:19] (2486) Assuming Python version 3.10
+[Info  - 12:44:19] (2486) Assuming Python platform Linux
+[Info  - 12:44:21] (2486) Searching for source files
+[Info  - 12:44:21] (2486) Found 1 source file
+[Info  - 12:44:21] (2486) Background analysis(1) root directory: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist
+[Info  - 12:44:21] (2486) Background analysis(1) started
+[Info  - 12:44:21] (2486) No pyproject.toml file found.
+[Info  - 12:44:21] (2486) Setting pythonPath for service "<default>": "/bin/python"
+[Warn  - 12:44:21] (2486) stubPath typings is not a valid directory.
+[Info  - 12:44:22] (2486) Assuming Python version 3.10
+[Info  - 12:44:22] (2486) Assuming Python platform Linux
+[Info  - 12:44:25] (2486) Searching for source files
+[Info  - 12:44:25] (2486) No source files found.
+[Info  - 12:44:33] (2486) [FG] Long operation: parsing: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist/typeshed-fallback/stdlib/builtins.pyi (5290ms)
+[Info  - 12:44:37] (2486) [FG] Long operation: binding: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist/typeshed-fallback/stdlib/builtins.pyi (2328ms)
+[Info  - 12:44:37] (2486) [BG(1)] Long operation: parsing: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist/typeshed-fallback/stdlib/builtins.pyi (6124ms)
+[Info  - 12:44:37] (2486) Background analysis(2) root directory: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist
+[Info  - 12:44:37] (2486) Background analysis(2) started
+[Info  - 12:44:37] (2486) [BG(1)] Long operation: parsing: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist/typeshed-fallback/stdlib/typing.pyi (2331ms)
+[Info  - 12:44:37] (2486) Indexer background runner(3) root directory: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist (index)
+[Info  - 12:44:37] (2486) Indexing(3) started
+[Info  - 12:44:39] (2486) [IDX(3)] Long operation: read stdlib indices (2497ms)
+[Info  - 12:44:40] (2486) [BG(1)] Long operation: checking: /home/vinicius/Documentos/Estudos/main.py (8181ms)
+[Info  - 12:44:40] (2486) [BG(1)] Long operation: analyzing: /home/vinicius/Documentos/Estudos/main.py (16855ms)
+[Info  - 12:44:50] (2486) [IDX(3)] Long operation: scan packages /home/vinicius/Documentos/Estudos (13016ms)
+[Info  - 12:44:50] (2486) scanned(3) 80 files over 1 exec env
+[Info  - 12:45:11] (2486) [IDX(3)] Long operation: binding: /usr/lib/python3.10/site-packages/pyparsing/__init__.py (2363ms)
+[Info  - 12:45:17] (2486) [IDX(3)] Long operation: indexing: /usr/lib/python3.10/site-packages/pyparsing/__init__.py (5113ms)
+[Info  - 12:45:19] (2486) [IDX(3)] Long operation: index execution environment /home/vinicius/Documentos/Estudos (27716ms)
+[Info  - 12:45:19] (2486) [IDX(3)] Long operation: index packages /home/vinicius/Documentos/Estudos (27999ms)
+[Info  - 12:45:19] (2486) indexed(3) 45 files over 1 exec env
+[Info  - 12:45:20] (2486) Indexing finished(3).

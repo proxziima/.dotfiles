@@ -1,0 +1,10 @@
+2023-02-25 02:44:35.748 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'commentsResolvedState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-02-25 02:45:22.184 [info] [perf] Render performance baseline is -1ms
+2023-02-25 02:49:12.234 [error] Unable to read file '/home/vinicius/Documentos/Estudos/index.html' (Error: File not modified since): Error: Unable to read file '/home/vinicius/Documentos/Estudos/index.html' (Error: File not modified since)
+    at l.w (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:17128)
+    at l.v (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:16960)
+    at async m.H (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2324:34453)
+    at async m.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2324:34148)
+    at async Ps.Ab (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2315:54208)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2324:30193
+2023-02-25 02:50:28.013 [warning] {}

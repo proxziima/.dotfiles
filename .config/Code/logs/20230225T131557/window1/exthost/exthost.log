@@ -1,0 +1,431 @@
+2023-02-25 13:16:14.377 [info] Extension host with pid 7181 started
+2023-02-25 13:16:14.377 [info] Skipping acquiring lock for /home/vinicius/.config/Code/User/workspaceStorage/c1c8133b662909a9f1a8f7155c3141ad.
+2023-02-25 13:16:15.646 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.isort
+2023-02-25 13:16:16.641 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2023-02-25 13:16:17.832 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:python'
+2023-02-25 13:16:18.591 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+2023-02-25 13:16:19.256 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-02-25 13:16:19.431 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-02-25 13:16:19.477 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2023-02-25 13:16:19.806 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2023-02-25 13:16:19.873 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+2023-02-25 13:16:24.950 [info] Extension host terminating: parent process 7145 does not exist anymore: kill ESRCH (code: ESRCH) (errno: -3)
+2023-02-25 13:16:25.009 [error] Canceled: Canceled
+	at Object.k [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+	at Array.forEach (<anonymous>)
+	at l.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+	at h.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at Timeout._onTimeout (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16296)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7) setContext undefined
+2023-02-25 13:16:25.011 [error] Canceled: Canceled
+	at Object.k [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+	at Array.forEach (<anonymous>)
+	at l.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+	at h.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at Timeout._onTimeout (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16296)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7) setContext undefined
+2023-02-25 13:16:25.012 [error] Canceled: Canceled
+	at Object.k [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+	at Array.forEach (<anonymous>)
+	at l.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+	at h.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at Timeout._onTimeout (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16296)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7) setContext undefined
+2023-02-25 13:16:25.014 [error] Canceled: Canceled
+	at Object.k [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+	at Array.forEach (<anonymous>)
+	at l.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+	at h.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at Timeout._onTimeout (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16296)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7) setContext undefined
+2023-02-25 13:16:25.018 [error] Canceled: Canceled
+	at Object.k [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+	at Array.forEach (<anonymous>)
+	at l.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+	at h.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at Timeout._onTimeout (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16296)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7) setContext undefined
+2023-02-25 13:16:25.020 [error] Canceled: Canceled
+	at Object.k [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+	at Array.forEach (<anonymous>)
+	at l.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+	at h.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at Timeout._onTimeout (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16296)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7) setContext undefined
+2023-02-25 13:16:25.021 [error] Canceled: Canceled
+	at Object.k [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+	at Array.forEach (<anonymous>)
+	at l.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+	at h.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at Timeout._onTimeout (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16296)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7) setContext undefined
+2023-02-25 13:16:25.023 [error] Canceled: Canceled
+	at Object.k [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+	at Array.forEach (<anonymous>)
+	at l.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+	at h.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at Timeout._onTimeout (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16296)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7) setContext undefined
+2023-02-25 13:16:25.025 [error] Canceled: Canceled
+	at Object.k [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+	at Array.forEach (<anonymous>)
+	at l.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+	at h.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at Timeout._onTimeout (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16296)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7) setContext undefined
+2023-02-25 13:16:25.026 [error] Canceled: Canceled
+	at Object.k [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+	at Array.forEach (<anonymous>)
+	at l.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+	at h.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at Timeout._onTimeout (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16296)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7) setContext undefined
+2023-02-25 13:16:25.028 [error] Canceled: Canceled
+	at Object.k [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+	at Array.forEach (<anonymous>)
+	at l.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+	at h.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at Timeout._onTimeout (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16296)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7) setContext undefined
+2023-02-25 13:16:25.030 [error] Canceled: Canceled
+	at Object.k [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+	at Array.forEach (<anonymous>)
+	at l.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+	at h.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at Timeout._onTimeout (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16296)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7) setContext undefined
+2023-02-25 13:16:25.032 [error] Canceled: Canceled
+	at Object.k [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+	at Array.forEach (<anonymous>)
+	at l.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+	at h.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at Timeout._onTimeout (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16296)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7) setContext undefined
+2023-02-25 13:16:25.034 [error] Canceled: Canceled
+	at Object.k [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+	at Array.forEach (<anonymous>)
+	at l.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+	at h.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at Timeout._onTimeout (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:16296)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7) setContext undefined
+2023-02-25 13:16:25.181 [info] Extension host with pid 7181 exiting with code 0
+2023-02-25 13:16:25.238 [error] Canceled: Canceled
+	at new u (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at a.executeCommand (/home/vinicius/.vscode/extensions/ms-python.python-2023.2.0/out/client/extension.js:2:107531)
+	at /home/vinicius/.vscode/extensions/ms-python.python-2023.2.0/out/client/extension.js:2:409834
+	at runNextTicks (node:internal/process/task_queues:61:5)
+	at listOnTimeout (node:internal/timers:528:9)
+	at process.processTimers (node:internal/timers:502:7)
+	at async t.activateComponents (/home/vinicius/.vscode/extensions/ms-python.python-2023.2.0/out/client/extension.js:2:408578)
+	at async /home/vinicius/.vscode/extensions/ms-python.python-2023.2.0/out/client/extension.js:2:3124940
+	at async e (/home/vinicius/.vscode/extensions/ms-python.python-2023.2.0/out/client/extension.js:2:3124490)
+	at async f.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6818)
+	at async f.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6781)
+	at async f.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6238) setContext undefined
+2023-02-25 13:16:25.276 [info] Eager extensions activated
+2023-02-25 13:16:25.278 [error] Activating extension vscode.debug-auto-launch failed due to an error:
+2023-02-25 13:16:25.279 [error] Canceled: Canceled
+	at new u (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at f.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11499)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:8535)
+	at f.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6831)
+	at f.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6792)
+	at f.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6249)
+	at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6176)
+	at E.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5656)
+	at E.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5611)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4445
+	at Array.map (<anonymous>)
+	at E.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4433)
+	at E.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4345)
+	at f.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:10021)
+	at f.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15029)
+	at f.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15325)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15620
+	at runNextTicks (node:internal/process/task_queues:61:5)
+	at listOnTimeout (node:internal/timers:528:9)
+	at process.processTimers (node:internal/timers:502:7)
+2023-02-25 13:16:25.281 [error] Activating extension vscode.merge-conflict failed due to an error:
+2023-02-25 13:16:25.281 [error] Canceled: Canceled
+	at new u (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at f.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11499)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:8535)
+	at f.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6831)
+	at f.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6792)
+	at f.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6249)
+	at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6176)
+	at E.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5656)
+	at E.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5611)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4445
+	at Array.map (<anonymous>)
+	at E.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4433)
+	at E.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4345)
+	at f.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:10021)
+	at f.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15029)
+	at f.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15325)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15620
+	at runNextTicks (node:internal/process/task_queues:61:5)
+	at listOnTimeout (node:internal/timers:528:9)
+	at process.processTimers (node:internal/timers:502:7)
+2023-02-25 13:16:25.283 [error] Activating extension bradlc.vscode-tailwindcss failed due to an error:
+2023-02-25 13:16:25.283 [error] Canceled: Canceled
+	at new u (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at f.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11499)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:8535)
+	at f.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6831)
+	at f.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6792)
+	at f.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6249)
+	at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6176)
+	at E.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5656)
+	at E.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5611)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4445
+	at Array.map (<anonymous>)
+	at E.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4433)
+	at E.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4345)
+	at f.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:10021)
+	at f.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15029)
+	at f.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15325)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15620
+	at runNextTicks (node:internal/process/task_queues:61:5)
+	at listOnTimeout (node:internal/timers:528:9)
+	at process.processTimers (node:internal/timers:502:7)
+2023-02-25 13:16:25.285 [error] Activating extension dbaeumer.vscode-eslint failed due to an error:
+2023-02-25 13:16:25.285 [error] Canceled: Canceled
+	at new u (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at f.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11499)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:8535)
+	at f.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6831)
+	at f.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6792)
+	at f.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6249)
+	at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6176)
+	at E.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5656)
+	at E.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5611)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4445
+	at Array.map (<anonymous>)
+	at E.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4433)
+	at E.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4345)
+	at f.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:10021)
+	at f.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15029)
+	at f.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15325)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15620
+	at runNextTicks (node:internal/process/task_queues:61:5)
+	at listOnTimeout (node:internal/timers:528:9)
+	at process.processTimers (node:internal/timers:502:7)
+2023-02-25 13:16:25.287 [error] Activating extension vscode.npm failed due to an error:
+2023-02-25 13:16:25.287 [error] Canceled: Canceled
+	at new u (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at f.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11499)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:8535)
+	at f.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6831)
+	at f.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6792)
+	at f.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6249)
+	at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6176)
+	at E.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5656)
+	at E.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5611)
+	at E.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5278)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4445
+	at Array.map (<anonymous>)
+	at E.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4433)
+	at E.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4345)
+	at f.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:10021)
+	at f.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15029)
+	at f.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15325)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15620
+	at runNextTicks (node:internal/process/task_queues:61:5)
+	at listOnTimeout (node:internal/timers:528:9)
+	at process.processTimers (node:internal/timers:502:7)
+2023-02-25 13:16:25.288 [error] Activating extension miguelsolorio.symbols failed due to an error:
+2023-02-25 13:16:25.288 [error] Canceled: Canceled
+	at new u (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at f.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11499)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:8535)
+	at f.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6831)
+	at f.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6792)
+	at f.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6249)
+	at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6176)
+	at E.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5656)
+	at E.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5611)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4445
+	at Array.map (<anonymous>)
+	at E.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4433)
+	at E.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4345)
+	at f.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:10021)
+	at f.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15029)
+	at f.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15325)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15620
+	at runNextTicks (node:internal/process/task_queues:61:5)
+	at listOnTimeout (node:internal/timers:528:9)
+	at process.processTimers (node:internal/timers:502:7)
+2023-02-25 13:16:25.290 [error] Activating extension moalamri.inline-fold failed due to an error:
+2023-02-25 13:16:25.290 [error] Canceled: Canceled
+	at new u (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at f.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11499)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:8535)
+	at f.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6831)
+	at f.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6792)
+	at f.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6249)
+	at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6176)
+	at E.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5656)
+	at E.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5611)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4445
+	at Array.map (<anonymous>)
+	at E.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4433)
+	at E.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4345)
+	at f.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:10021)
+	at f.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15029)
+	at f.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15325)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15620
+	at runNextTicks (node:internal/process/task_queues:61:5)
+	at listOnTimeout (node:internal/timers:528:9)
+	at process.processTimers (node:internal/timers:502:7)
+2023-02-25 13:16:25.291 [error] Activating extension ritwickdey.LiveServer failed due to an error:
+2023-02-25 13:16:25.291 [error] Canceled: Canceled
+	at new u (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at f.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11499)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:8535)
+	at f.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6831)
+	at f.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6792)
+	at f.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6249)
+	at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6176)
+	at E.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5656)
+	at E.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5611)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4445
+	at Array.map (<anonymous>)
+	at E.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4433)
+	at E.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4345)
+	at f.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:10021)
+	at f.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15029)
+	at f.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15325)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15620
+	at runNextTicks (node:internal/process/task_queues:61:5)
+	at listOnTimeout (node:internal/timers:528:9)
+	at process.processTimers (node:internal/timers:502:7)
+2023-02-25 13:16:25.293 [error] Activating extension streetsidesoftware.code-spell-checker failed due to an error:
+2023-02-25 13:16:25.293 [error] Canceled: Canceled
+	at new u (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at f.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11499)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:8535)
+	at f.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6831)
+	at f.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6792)
+	at f.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6249)
+	at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6176)
+	at E.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5656)
+	at E.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5611)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4445
+	at Array.map (<anonymous>)
+	at E.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4433)
+	at E.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4345)
+	at f.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:10021)
+	at f.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15029)
+	at f.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15325)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15620
+	at runNextTicks (node:internal/process/task_queues:61:5)
+	at listOnTimeout (node:internal/timers:528:9)
+	at process.processTimers (node:internal/timers:502:7)
+2023-02-25 13:16:25.294 [error] Activating extension WallabyJs.console-ninja failed due to an error:
+2023-02-25 13:16:25.294 [error] Canceled: Canceled
+	at new u (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at f.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11499)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:8535)
+	at f.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6831)
+	at f.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6792)
+	at f.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6249)
+	at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6176)
+	at E.k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5656)
+	at E.j (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:5611)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4445
+	at Array.map (<anonymous>)
+	at E.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4433)
+	at E.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:4345)
+	at f.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:10021)
+	at f.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15029)
+	at f.fb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15325)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:15620
+	at runNextTicks (node:internal/process/task_queues:61:5)
+	at listOnTimeout (node:internal/timers:528:9)
+	at process.processTimers (node:internal/timers:502:7)

@@ -1,0 +1,21 @@
+Visual Studio Code (1.75.1, undefined, desktop)
+Jupyter Extension Version: 2023.1.2010391206.
+Python Extension Version: 2023.2.0.
+No workspace folder opened.
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 12:46:57.922: LSP Notebooks experiment is enabled
+info 12:47:04.153: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
+info 12:47:07.922: Process Execution: > /bin/python -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+error 12:47:08.801: interpreterPackages getPackageInformation, Class name = xl, completed in 10324ms, has a falsy return value, Arg 1: {"interpreter":{"id":"/bin/python","sysPrefix":"/usr","displayPath":{"$mid":1,"path":"/bin/python","scheme":"file"},"envName":"","uri":{"$mid":1,"fsPath":"/bin/python","external":"file:///bin/python","path":"/bin/python","scheme":"file"},"displayName":"","envType":"Unknown","version":{"major":3,"minor":10,"patch":9,"raw":"3.10.9 (main, Dec 19 2022, 17:35:49) [GCC 12.2.0]"}}} [Qa [Error]: Module 'pip' not installed.
+	at Xa.execModule (/home/vinicius/.vscode/extensions/ms-toolsai.jupyter-2023.1.2010391206/out/extension.node.js:2:1806741)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async xl.getPackageInformation (/home/vinicius/.vscode/extensions/ms-toolsai.jupyter-2023.1.2010391206/out/extension.node.js:17:38262)] {
+  category: 'notinstalled',
+  moduleName: 'pip'
+}
+info 12:47:57.571: Shutting down notebooks for b907f4c6-fefb-4725-b0f4-d17efed1c698
+info 12:47:57.572: Disposing HostJupyterExecution 4f86e600-6a33-46ed-a395-4b25e04ce195
+info 12:47:57.574: Disposing HostJupyterExecution 4f86e600-6a33-46ed-a395-4b25e04ce195

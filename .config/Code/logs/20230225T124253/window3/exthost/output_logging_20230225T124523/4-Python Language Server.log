@@ -1,0 +1,24 @@
+[Info  - 12:47:12] (3035) Pylance language server 2023.2.40 (pyright 085dfbfa) starting
+[Info  - 12:47:12] (3035) Server root directory: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist
+[Info  - 12:47:12] (3035) Auto-indent enabled
+[Info  - 12:47:12] (3035) Starting service instance "<default>"
+[Info  - 12:47:15] (3035) No pyproject.toml file found.
+[Info  - 12:47:15] (3035) Setting pythonPath for service "<default>": "/bin/python"
+[Warn  - 12:47:15] (3035) stubPath typings is not a valid directory.
+[Info  - 12:47:16] (3035) Assuming Python version 3.10
+[Info  - 12:47:16] (3035) Assuming Python platform Linux
+[Info  - 12:47:18] (3035) Searching for source files
+[Info  - 12:47:18] (3035) No source files found.
+[Info  - 12:47:19] (3035) No pyproject.toml file found.
+[Info  - 12:47:19] (3035) Setting pythonPath for service "<default>": "/bin/python"
+[Warn  - 12:47:19] (3035) stubPath typings is not a valid directory.
+[Info  - 12:47:19] (3035) Assuming Python version 3.10
+[Info  - 12:47:20] (3035) Assuming Python platform Linux
+[Info  - 12:47:20] (3035) Searching for source files
+[Info  - 12:47:20] (3035) No source files found.
+[Info  - 12:47:28] (3035) [FG] Long operation: parsing: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist/typeshed-fallback/stdlib/builtins.pyi (6117ms)
+[Info  - 12:47:30] (3035) Background analysis(1) root directory: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist
+[Info  - 12:47:30] (3035) Background analysis(1) started
+[Info  - 12:47:42] (3035) [BG(1)] Long operation: parsing: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist/typeshed-fallback/stdlib/builtins.pyi (11639ms)
+[Info  - 12:47:45] (3035) [BG(1)] Long operation: binding: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist/typeshed-fallback/stdlib/builtins.pyi (3084ms)
+[Info  - 12:47:45] (3035) [BG(1)] Long operation: analyzing: Untitled-1 (16603ms)

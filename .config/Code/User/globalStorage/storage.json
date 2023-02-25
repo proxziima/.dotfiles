@@ -5,7 +5,7 @@
             "file:///home/vinicius/Documentos/Estudos": "__default__profile__"
         },
         "emptyWindows": {
-            "1677114114385": "__default__profile__"
+            "1677339897533": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,
@@ -17,11 +17,7 @@
                 "folderUri": "file:///home/vinicius/Documentos/Estudos"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1677114114385"
-            }
-        ]
+        "emptyWindows": []
     },
     "windowsState": {
         "lastActiveWindow": {
@@ -29,10 +25,10 @@
             "backupPath": "/home/vinicius/.config/Code/Backups/a85302d704a3f54651f1cbd930aed898",
             "uiState": {
                 "mode": 1,
-                "x": 12,
-                "y": 50,
-                "width": 1342,
-                "height": 706
+                "x": 690,
+                "y": 60,
+                "width": 664,
+                "height": 696
             }
         },
         "openedWindows": []
@@ -488,11 +484,13 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleActivityBarVisibility",
-                                    "label": "&&Activity Bar"
+                                    "label": "&&Activity Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel"
+                                    "label": "&&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -721,7 +719,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -730,7 +729,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1638,7 +1638,7 @@
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
-            "activityBarWidth": 0,
+            "activityBarWidth": 48,
             "sideBarWidth": 170,
             "statusBarHeight": 22,
             "windowBorder": false

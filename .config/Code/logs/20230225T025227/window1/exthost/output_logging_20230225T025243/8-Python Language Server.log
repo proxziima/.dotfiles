@@ -1,0 +1,60 @@
+[Info  - 02:53:29] (4429) Pylance language server 2023.2.40 (pyright 085dfbfa) starting
+[Info  - 02:53:29] (4429) Server root directory: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist
+[Info  - 02:53:29] (4429) Starting service instance "Estudos"
+[Info  - 02:53:29] (4429) Auto-indent enabled
+[Info  - 02:53:30] (4429) Starting service instance "<default>"
+[Info  - 02:53:30] (4429) No pyproject.toml file found.
+[Info  - 02:53:30] (4429) Setting pythonPath for service "<default>": "/bin/python"
+[Warn  - 02:53:30] (4429) stubPath typings is not a valid directory.
+[Info  - 02:53:31] (4429) Assuming Python version 3.10
+[Info  - 02:53:31] (4429) Assuming Python platform Linux
+[Info  - 02:53:35] (4429) Searching for source files
+[Info  - 02:53:35] (4429) No source files found.
+[Info  - 02:53:35] (4429) No configuration file found.
+[Info  - 02:53:35] (4429) No pyproject.toml file found.
+[Info  - 02:53:35] (4429) Setting pythonPath for service "Estudos": "/bin/python"
+[Warn  - 02:53:35] (4429) stubPath /home/vinicius/Documentos/Estudos/typings is not a valid directory.
+[Info  - 02:53:36] (4429) Assuming Python version 3.10
+[Info  - 02:53:36] (4429) Assuming Python platform Linux
+[Info  - 02:53:38] (4429) Searching for source files
+[Info  - 02:53:38] (4429) Found 1 source file
+[Info  - 02:53:39] (4429) No pyproject.toml file found.
+[Info  - 02:53:39] (4429) Setting pythonPath for service "<default>": "/bin/python"
+[Warn  - 02:53:39] (4429) stubPath typings is not a valid directory.
+[Info  - 02:53:40] (4429) Assuming Python version 3.10
+[Info  - 02:53:40] (4429) Assuming Python platform Linux
+[Info  - 02:53:43] (4429) Searching for source files
+[Info  - 02:53:43] (4429) No source files found.
+[Info  - 02:53:43] (4429) Background analysis(1) root directory: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist
+[Info  - 02:53:43] (4429) Background analysis(1) started
+[Info  - 02:53:43] (4429) Background analysis(2) root directory: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist
+[Info  - 02:53:43] (4429) Background analysis(2) started
+[Info  - 02:53:45] (4429) No configuration file found.
+[Info  - 02:53:45] (4429) No pyproject.toml file found.
+[Info  - 02:53:45] (4429) Setting pythonPath for service "Estudos": "/bin/python"
+[Warn  - 02:53:45] (4429) stubPath /home/vinicius/Documentos/Estudos/typings is not a valid directory.
+[Info  - 02:53:46] (4429) Assuming Python version 3.10
+[Info  - 02:53:46] (4429) Assuming Python platform Linux
+[Info  - 02:53:48] (4429) Searching for source files
+[Info  - 02:53:48] (4429) Found 1 source file
+[Info  - 02:53:48] (4429) No pyproject.toml file found.
+[Info  - 02:53:48] (4429) Setting pythonPath for service "<default>": "/bin/python"
+[Warn  - 02:53:48] (4429) stubPath typings is not a valid directory.
+[Info  - 02:53:50] (4429) Assuming Python version 3.10
+[Info  - 02:53:50] (4429) Assuming Python platform Linux
+[Info  - 02:53:52] (4429) Searching for source files
+[Info  - 02:53:53] (4429) No source files found.
+[Info  - 02:54:00] (4429) [FG] Long operation: parsing: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist/typeshed-fallback/stdlib/builtins.pyi (7319ms)
+[Info  - 02:54:01] (4429) [BG(1)] Long operation: parsing: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist/typeshed-fallback/stdlib/builtins.pyi (7761ms)
+[Info  - 02:54:01] (4429) [BG(1)] Long operation: analyzing: /home/vinicius/Documentos/Estudos/main.py (11378ms)
+[Info  - 02:54:03] (4429) Indexer background runner(3) root directory: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40/dist (index)
+[Info  - 02:54:03] (4429) Indexing(3) started
+[Info  - 02:54:08] (4429) [BG(1)] Long operation: checking: /home/vinicius/Documentos/Estudos/main.py (4274ms)
+[Info  - 02:54:08] (4429) [BG(1)] Long operation: analyzing: /home/vinicius/Documentos/Estudos/main.py (7090ms)
+[Info  - 02:54:17] (4429) [IDX(3)] Long operation: scan packages /home/vinicius/Documentos/Estudos (13521ms)
+[Info  - 02:54:17] (4429) scanned(3) 80 files over 1 exec env
+[Info  - 02:54:37] (4429) [IDX(3)] Long operation: indexing: /usr/lib/python3.10/site-packages/pyparsing/__init__.py (2843ms)
+[Info  - 02:54:37] (4429) [IDX(3)] Long operation: index execution environment /home/vinicius/Documentos/Estudos (19062ms)
+[Info  - 02:54:37] (4429) [IDX(3)] Long operation: index packages /home/vinicius/Documentos/Estudos (19377ms)
+[Info  - 02:54:37] (4429) indexed(3) 45 files over 1 exec env
+[Info  - 02:54:37] (4429) Indexing finished(3).
