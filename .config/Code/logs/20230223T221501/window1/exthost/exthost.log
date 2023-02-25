@@ -1,0 +1,35 @@
+2023-02-23 22:15:12.465 [info] Extension host with pid 4575 started
+2023-02-23 22:15:12.901 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2023-02-23 22:15:13.265 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-02-23 22:15:13.357 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-02-23 22:15:13.429 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2023-02-23 22:15:13.925 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2023-02-23 22:15:14.014 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+2023-02-23 22:15:14.395 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-02-23 22:15:14.769 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-02-23 22:15:15.938 [info] Eager extensions activated
+2023-02-23 22:15:15.987 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-02-23 22:15:16.335 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-02-23 22:15:16.428 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-02-23 22:15:16.848 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2023-02-23 22:15:17.199 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2023-02-23 22:15:17.459 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2023-02-23 22:15:17.594 [info] ExtensionService#_doActivateExtension miguelsolorio.symbols, startup: false, activationEvent: 'onStartupFinished'
+2023-02-23 22:15:17.969 [info] ExtensionService#_doActivateExtension moalamri.inline-fold, startup: false, activationEvent: 'onStartupFinished'
+2023-02-23 22:15:18.181 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-02-23 22:15:18.419 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2023-02-23 22:15:19.046 [info] ExtensionService#_doActivateExtension WallabyJs.console-ninja, startup: false, activationEvent: 'onStartupFinished'
+2023-02-23 22:15:19.303 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-02-23 22:15:19.862 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-02-23 22:15:19.969 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-02-23 22:15:20.028 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'onNotebook:*'
+2023-02-23 22:15:21.945 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.isort
+2023-02-23 22:15:22.365 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:python'
+2023-02-23 22:15:22.635 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+2023-02-23 22:15:23.304 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-02-23 22:15:23.844 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-02-23 22:15:25.141 [info] ExtensionService#_doActivateExtension ms-python.isort, startup: false, activationEvent: 'onLanguage:python'
+2023-02-23 22:15:25.350 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-02-23 22:15:28.867 [error] Error: Module 'pip' not installed.
+	at Xa.execModule (/home/vinicius/.vscode/extensions/ms-toolsai.jupyter-2023.1.2010391206/out/extension.node.js:2:1806741)
+	at async xl.getPackageInformation (/home/vinicius/.vscode/extensions/ms-toolsai.jupyter-2023.1.2010391206/out/extension.node.js:17:38262)

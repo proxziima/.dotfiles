@@ -1,0 +1,7 @@
+2023-02-22 23:37:50.756 [info] Extension host with pid 9716 started
+2023-02-22 23:37:50.930 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-02-22 23:37:50.951 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-02-22 23:37:51.120 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-02-22 23:37:51.206 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-02-22 23:37:51.270 [info] Extension host terminating: renderer closed the MessagePort
+2023-02-22 23:37:51.272 [info] Extension host with pid 9716 exiting with code 0

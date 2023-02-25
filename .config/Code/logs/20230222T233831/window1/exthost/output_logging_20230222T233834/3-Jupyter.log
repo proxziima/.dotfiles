@@ -1,0 +1,220 @@
+Visual Studio Code (1.75.1, undefined, desktop)
+Jupyter Extension Version: 2023.1.2010391206.
+Python Extension Version: 2023.2.0.
+No workspace folder opened.
+info 23:43:47.073: LSP Notebooks experiment is enabled
+info 23:43:47.327: Process Execution: > jupyter notebook --version
+> jupyter notebook --version
+info 23:43:47.350: Process Execution: > jupyter lab --version
+> jupyter lab --version
+error 23:43:51.563: Live Notebook not available for Untitled-1.ipynb
+error 23:43:52.405: Live Notebook not available for Untitled-1.ipynb
+error 23:43:52.572: Live Notebook not available for Untitled-1.ipynb
+error 23:43:53.366: Live Notebook not available for Untitled-1.ipynb
+error 23:43:54.315: Live Notebook not available for Untitled-1.ipynb
+error 23:43:54.405: Live Notebook not available for Untitled-1.ipynb
+info 23:43:54.534: Find preferred kernel for Untitled-1.ipynb with metadata {"orig_nbformat":4} & preferred interpreter /bin/python
+info 23:43:54.539: Preferred kernel .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher is exact match or top match for non python kernels, (true, [object Object], false, undefined)
+info 23:43:54.540: PreferredConnection: .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher found for NotebookDocument: Untitled-1.ipynb
+error 23:43:54.608: Live Notebook not available for Untitled-1.ipynb
+info 23:43:54.783: Find preferred kernel for Untitled-1.ipynb with metadata {"orig_nbformat":4} & preferred interpreter /bin/python
+info 23:43:54.792: Preferred kernel .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher is exact match or top match for non python kernels, (false, [object Object], false, undefined)
+info 23:43:54.792: PreferredConnection: .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher found for NotebookDocument: Untitled-1.ipynb
+error 23:43:54.853: Live Notebook not available for Untitled-1.ipynb
+info 23:43:54.902: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
+info 23:43:55.159: Process Execution: > /bin/python -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+error 23:43:55.223: interpreterPackages getPackageInformation, Class name = xl, completed in 673ms, has a falsy return value, Arg 1: {"interpreter":{"id":"/bin/python","sysPrefix":"/usr","displayPath":{"$mid":1,"path":"/bin/python","scheme":"file"},"envName":"","uri":{"$mid":1,"fsPath":"/bin/python","external":"file:///bin/python","path":"/bin/python","scheme":"file"},"displayName":"","envType":"Unknown","version":{"major":3,"minor":10,"patch":9,"raw":"3.10.9 (main, Dec 19 2022, 17:35:49) [GCC 12.2.0]"}}} [Qa [Error]: Module 'pip' not installed.
+	at Xa.execModule (/home/vinicius/.vscode/extensions/ms-toolsai.jupyter-2023.1.2010391206/out/extension.node.js:2:1806741)
+	at async xl.getPackageInformation (/home/vinicius/.vscode/extensions/ms-toolsai.jupyter-2023.1.2010391206/out/extension.node.js:17:38262)] {
+  category: 'notinstalled',
+  moduleName: 'pip'
+}
+error 23:43:55.812: Live Notebook not available for Untitled-1.ipynb
+error 23:43:55.947: Live Notebook not available for Untitled-1.ipynb
+error 23:43:56.139: Live Notebook not available for Untitled-1.ipynb
+error 23:43:56.252: Live Notebook not available for Untitled-1.ipynb
+error 23:43:56.592: Live Notebook not available for Untitled-1.ipynb
+error 23:44:01.647: Live Notebook not available for Untitled-1.ipynb
+error 23:44:02.640: Live Notebook not available for Untitled-1.ipynb
+error 23:44:04.087: Live Notebook not available for Untitled-1.ipynb
+error 23:44:05.094: Live Notebook not available for Untitled-1.ipynb
+info 23:44:06.388: Starting Jupyter Session startUsingPythonInterpreter, .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher (Python Path: , EnvType: Unknown, EnvName: '', Version: 3.10.9 (main, Dec 19 2022, 17:35:49) [GCC 12.2.0]) for 'Untitled-1.ipynb' (disableUI=false)
+info 23:44:07.149: Process Execution: > /bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 23:44:07.374: Process Execution: > /bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"dcbdb5f2-3d66-45a5-a6bc-181ae062f6e6" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/vinicius/.local/share/jupyter/runtime/kernel-v2-9953OTFy1ekQ6UBS.json
+> /bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"dcbdb5f2-3d66-45a5-a6bc-181ae062f6e6" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/vinicius/.local/share/jupyter/runtime/kernel-v2-9953OTFy1ekQ6UBS.json
+info 23:44:07.374: Process Execution: cwd: ~
+cwd: ~
+warn 23:44:07.536: Stderr output when getting ipykernel version & path Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ModuleNotFoundError: No module named 'ipykernel' for /bin/python
+warn 23:44:07.615: StdErr from Kernel Process /bin/python: No module named ipykernel_launcher
+
+error 23:44:08.150: Disposing kernel process due to an error [ap [Error]: The kernel died. Error: /bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+	at ChildProcess.<anonymous> (/home/vinicius/.vscode/extensions/ms-toolsai.jupyter-2023.1.2010391206/out/extension.node.js:17:102857)
+	at ChildProcess.emit (node:events:538:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: Zd {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: id {
+      specFile: undefined,
+      interpreterPath: '/bin/python',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [f],
+      envName: '',
+      uri: [f],
+      displayName: '',
+      envType: 'Unknown',
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python: No module named ipykernel_launcher\n'
+}
+error 23:44:08.167: /bin/python: No module named ipykernel_launcher
+
+info 23:44:08.168: Dispose Kernel process 11402.
+error 23:44:08.172: Kernel Launcher. launch, Class name = vp, completed in 1778ms, has a falsy return value, Arg 1: {"id":".jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher","kernelSpec":{"interpreterPath":"/bin/python","isRegisteredByVSC":"registeredByNewVersionOfExt","name":"pythonjvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","executable":"python","display_name":"Python 3","metadata":{"interpreter":{"path":"/bin/python"}},"env":{}},"interpreter":{"id":"/bin/python","sysPrefix":"/usr","displayPath":{"$mid":1,"path":"/bin/python","scheme":"file"},"envName":"","displayName":"","envType":"Unknown","version":{"major":3,"minor":10,"patch":9,"raw":"3.10.9 (main, Dec 19 2022, 17:35:49) [GCC 12.2.0]"},"path":"/bin/python"},"kind":"startUsingPythonInterpreter"}, Arg 2: 60000, Arg 3: "Untitled-1.ipynb", Arg 4: "~", Arg 5: <argument cannot be serialized for logging> [ap [Error]: The kernel died. Error: /bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+	at ChildProcess.<anonymous> (/home/vinicius/.vscode/extensions/ms-toolsai.jupyter-2023.1.2010391206/out/extension.node.js:17:102857)
+	at ChildProcess.emit (node:events:538:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: Zd {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: id {
+      specFile: undefined,
+      interpreterPath: '/bin/python',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [f],
+      envName: '',
+      uri: [f],
+      displayName: '',
+      envType: 'Unknown',
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python: No module named ipykernel_launcher\n'
+}
+error 23:44:08.178: Failed to connect raw kernel session: Error: The kernel died. Error: /bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+warn 23:44:08.182: Error occurred while trying to start the kernel, options.disableUI=false [ap [Error]: The kernel died. Error: /bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+	at ChildProcess.<anonymous> (/home/vinicius/.vscode/extensions/ms-toolsai.jupyter-2023.1.2010391206/out/extension.node.js:17:102857)
+	at ChildProcess.emit (node:events:538:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: Zd {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: id {
+      specFile: undefined,
+      interpreterPath: '/bin/python',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [f],
+      envName: '',
+      uri: [f],
+      displayName: '',
+      envType: 'Unknown',
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python: No module named ipykernel_launcher\n'
+}
+warn 23:44:08.187: Kernel Error, context = start [ap [Error]: The kernel died. Error: /bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+	at ChildProcess.<anonymous> (/home/vinicius/.vscode/extensions/ms-toolsai.jupyter-2023.1.2010391206/out/extension.node.js:17:102857)
+	at ChildProcess.emit (node:events:538:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: Zd {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: id {
+      specFile: undefined,
+      interpreterPath: '/bin/python',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [f],
+      envName: '',
+      uri: [f],
+      displayName: '',
+      envType: 'Unknown',
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python: No module named ipykernel_launcher\n'
+}
+info 23:44:08.334: Process Execution: > /bin/python -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 23:44:08.390: installMissingDependencies /bin/python, ui.disabled=false for resource 'Untitled-1.ipynb'
+info 23:44:08.459: Process Execution: > /bin/python -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 23:44:08.621: Process Execution: > /bin/python -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 23:44:13.701: Dispose Kernel 'Untitled-1.ipynb' associated with 'Untitled-1.ipynb'
+error 23:44:28.991: Live Notebook not available for Untitled-1.ipynb
+error 23:44:29.143: Live Notebook not available for Untitled-1.ipynb
+error 23:44:57.516: Live Notebook not available for Untitled-1.ipynb
+error 23:45:01.292: Live Notebook not available for Untitled-1.ipynb
+error 23:45:19.304: Live Notebook not available for Untitled-1.ipynb
+error 23:45:28.840: Live Notebook not available for Untitled-1.ipynb
+info 23:45:37.977: Shutting down notebooks for 6c143172-8388-451c-bbe5-ae3f45385284
+info 23:45:37.977: Disposing HostJupyterExecution 401fb060-8dfb-4cfe-b663-a2ae7e267ea4
+info 23:45:37.977: Dispose Kernel 'Untitled-1.ipynb' associated with 'Untitled-1.ipynb'
+info 23:45:37.986: Disposing HostJupyterExecution 401fb060-8dfb-4cfe-b663-a2ae7e267ea4

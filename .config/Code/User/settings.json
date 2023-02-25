@@ -1,0 +1,25 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "Rosé Pine",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    // =================== CONFIG: prisma ===================
+  "[prisma]" : {
+    "editor.formatOnSave" : true,
+    "editor.defaultFormatter": "Prisma.prisma",
+    "editor.formatOnPaste": true,
+},
+"workbench.editor.labelFormat": "short",
+"editor.wordWrap": "on",
+"workbench.iconTheme": "symbols",
+"workbench.productIconTheme": "fluent-icons",
+"window.menuBarVisibility": "toggle",
+"[json]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"workbench.activityBar.visible": false,
+"[python]": {
+  "editor.formatOnType": true
+}
+}

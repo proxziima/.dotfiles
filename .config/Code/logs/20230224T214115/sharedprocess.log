@@ -1,0 +1,5 @@
+2023-02-24 21:41:31.090 [info] Starting worker process with pid 1696 (type: fileWatcher, window: 1).
+2023-02-24 21:41:35.954 [warning] No ptyHost heartbeat after 6 seconds
+2023-02-24 21:41:36.610 [info] Deleted from disk ms-python.vscode-pylance /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.30
+2023-02-24 21:43:12.120 [info] Worker process with pid 1696 terminated normally (type: fileWatcher, window: 1).
+2023-02-24 21:43:22.389 [info] Starting worker process with pid 9203 (type: fileWatcher, window: 3).

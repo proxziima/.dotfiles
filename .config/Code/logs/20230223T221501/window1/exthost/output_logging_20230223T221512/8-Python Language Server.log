@@ -1,0 +1,23 @@
+[Info  - 22:15:28] (4726) Pylance language server 2023.2.30 (pyright dec6aa20) starting
+[Info  - 22:15:28] (4726) Server root directory: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 22:15:28] (4726) Auto-indent enabled
+[Info  - 22:15:28] (4726) virtual workspace: untitled:Untitled-1.ipynb?jupyter-notebook
+[Info  - 22:15:28] (4726) Starting service instance "Untitled-1.ipynb"
+[Info  - 22:15:29] (4726) Starting service instance "<default>"
+[Info  - 22:15:29] (4726) No pyproject.toml file found.
+[Info  - 22:15:29] (4726) Setting pythonPath for service "Untitled-1.ipynb": "/bin/python"
+[Warn  - 22:15:29] (4726) stubPath typings is not a valid directory.
+[Info  - 22:15:29] (4726) Assuming Python version 3.10
+[Info  - 22:15:29] (4726) Assuming Python platform Linux
+[Info  - 22:15:30] (4726) Searching for source files
+[Error - 22:15:30] (4726) File or directory "" does not exist.
+[Info  - 22:15:30] (4726) No source files found.
+[Info  - 22:15:30] (4726) No pyproject.toml file found.
+[Info  - 22:15:30] (4726) Setting pythonPath for service "<default>": "/bin/python"
+[Warn  - 22:15:30] (4726) stubPath typings is not a valid directory.
+[Info  - 22:15:30] (4726) Assuming Python version 3.10
+[Info  - 22:15:30] (4726) Assuming Python platform Linux
+[Info  - 22:15:30] (4726) Searching for source files
+[Info  - 22:15:30] (4726) No source files found.
+[Info  - 22:15:32] (4726) Background analysis(1) root directory: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 22:15:32] (4726) Background analysis(1) started

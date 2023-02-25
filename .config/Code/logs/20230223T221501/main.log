@@ -1,0 +1,35 @@
+2023-02-23 22:15:02.790 [info] update#setState idle
+2023-02-23 22:15:08.348 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-02-23 22:15:08.388 [info] [UtilityProcess id: 1, type: extensionHost, pid: 4564]: successfully created
+2023-02-23 22:15:08.696 [info] [UtilityProcess id: 2, type: extensionHost, pid: <none>]: creating new...
+2023-02-23 22:15:08.707 [info] [UtilityProcess id: 2, type: extensionHost, pid: 4575]: successfully created
+2023-02-23 22:15:11.827 [info] [UtilityProcess id: 1, type: extensionHost, pid: 4564]: received exit event with code 0
+2023-02-23 22:15:11.828 [info] Extension host with pid 4564 exited with code: 0, signal: unknown.
+2023-02-23 22:15:32.793 [info] update#setState checking for updates
+2023-02-23 22:15:32.997 [info] update#setState idle
+2023-02-23 23:15:32.805 [info] update#setState checking for updates
+2023-02-23 23:15:33.926 [info] update#setState idle
+2023-02-24 00:15:33.104 [info] update#setState checking for updates
+2023-02-24 00:15:33.743 [info] update#setState idle
+2023-02-24 01:15:33.114 [info] update#setState checking for updates
+2023-02-24 01:15:34.099 [info] update#setState idle
+2023-02-24 02:15:33.120 [info] update#setState checking for updates
+2023-02-24 02:15:33.776 [info] update#setState idle
+2023-02-24 03:15:33.123 [info] update#setState checking for updates
+2023-02-24 03:15:33.939 [info] update#setState idle
+2023-02-24 04:15:33.130 [info] update#setState checking for updates
+2023-02-24 04:17:42.356 [error] Error: net::ERR_CONNECTION_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+2023-02-24 04:17:42.358 [info] update#setState idle
+2023-02-24 05:15:33.233 [info] update#setState checking for updates
+2023-02-24 05:17:43.420 [error] Error: net::ERR_CONNECTION_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+2023-02-24 05:17:43.421 [info] update#setState idle
+2023-02-24 06:15:33.336 [info] update#setState checking for updates
+2023-02-24 06:17:42.780 [error] Error: net::ERR_CONNECTION_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+2023-02-24 06:17:42.780 [info] update#setState idle
+2023-02-24 07:09:53.809 [info] [UtilityProcess id: 2, type: extensionHost, pid: 4575]: received exit event with code 0

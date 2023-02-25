@@ -1,0 +1,31 @@
+[Info  - 23:43:56] (11376) Pylance language server 2023.2.30 (pyright dec6aa20) starting
+[Info  - 23:43:56] (11376) Server root directory: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 23:43:56] (11376) virtual workspace: untitled:Untitled-1.ipynb?jupyter-notebook
+[Info  - 23:43:56] (11376) Starting service instance "Untitled-1.ipynb"
+[Info  - 23:43:56] (11376) Starting service instance "<default>"
+[Info  - 23:43:57] (11376) No pyproject.toml file found.
+[Info  - 23:43:57] (11376) Setting pythonPath for service "Untitled-1.ipynb": "/bin/python"
+[Warn  - 23:43:57] (11376) stubPath typings is not a valid directory.
+[Info  - 23:43:57] (11376) Assuming Python version 3.10
+[Info  - 23:43:57] (11376) Assuming Python platform Linux
+[Info  - 23:43:57] (11376) Searching for source files
+[Error - 23:43:57] (11376) File or directory "" does not exist.
+[Info  - 23:43:57] (11376) No source files found.
+[Info  - 23:43:57] (11376) No pyproject.toml file found.
+[Info  - 23:43:57] (11376) Setting pythonPath for service "<default>": "/bin/python"
+[Warn  - 23:43:57] (11376) stubPath typings is not a valid directory.
+[Info  - 23:43:57] (11376) Assuming Python version 3.10
+[Info  - 23:43:57] (11376) Assuming Python platform Linux
+[Info  - 23:43:57] (11376) Searching for source files
+[Info  - 23:43:57] (11376) No source files found.
+[Info  - 23:44:01] (11376) [FG] Long operation: completion at /Untitled-1.ipynb:pylance-notebook-cell:W0sdW50aXRsZWQ=.py:1:6 (3605ms)
+[Info  - 23:44:01] (11376) Background analysis(1) root directory: /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 23:44:01] (11376) Background analysis(1) started
+[Info  - 23:44:06] (11376) No pyproject.toml file found.
+[Info  - 23:44:06] (11376) Setting pythonPath for service "Untitled-1.ipynb": "/bin/python"
+[Warn  - 23:44:06] (11376) stubPath typings is not a valid directory.
+[Info  - 23:44:06] (11376) Assuming Python version 3.10
+[Info  - 23:44:06] (11376) Assuming Python platform Linux
+[Info  - 23:44:07] (11376) Searching for source files
+[Error - 23:44:07] (11376) File or directory "" does not exist.
+[Info  - 23:44:07] (11376) Found 2 source files

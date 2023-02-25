@@ -1,0 +1,30 @@
+2023-02-23 22:15:14.932 [info] Starting worker process with pid 4626 (type: fileWatcher, window: 1).
+2023-02-23 22:15:18.259 [warning] No ptyHost heartbeat after 6 seconds
+2023-02-23 22:15:22.591 [info] Getting Manifest... ms-python.vscode-pylance
+2023-02-23 22:15:22.802 [info] Installing extension: ms-python.vscode-pylance
+2023-02-23 22:15:23.872 [info] Getting Manifest... ms-python.python
+2023-02-23 22:15:29.080 [warning] Extension signature verification: ms-python.vscode-pylance. Verification status: UnknownError.
+2023-02-23 22:15:39.767 [info] Extracted extension to /home/vinicius/.vscode/extensions/.4c95beb4-cf37-442e-b35a-a2e6b9967948: ms-python.vscode-pylance
+2023-02-23 22:15:39.886 [info] Renamed to /home/vinicius/.vscode/extensions/ms-python.vscode-pylance-2023.2.40
+2023-02-23 22:15:39.895 [info] Extracting completed. ms-python.vscode-pylance
+2023-02-23 22:15:40.092 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-02-23 22:15:40.819 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.2.30
+2023-02-24 04:57:40.227 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-02-24 05:04:50.313 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-02-24 05:12:00.387 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-02-24 05:19:10.467 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-02-24 05:26:20.545 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-02-24 05:33:30.625 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-02-24 05:40:45.825 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-02-24 05:47:55.907 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-02-24 05:55:05.988 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-02-24 06:02:16.065 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-02-24 06:09:31.266 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-02-24 06:16:41.352 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-02-24 06:23:51.426 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-02-24 06:31:01.506 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-02-24 06:38:11.595 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-02-24 06:45:21.664 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-02-24 06:52:31.752 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-02-24 06:59:41.826 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-02-24 07:04:41.919 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}

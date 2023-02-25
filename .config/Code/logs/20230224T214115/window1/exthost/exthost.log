@@ -1,0 +1,115 @@
+2023-02-24 21:41:30.538 [info] Extension host with pid 1648 started
+2023-02-24 21:41:30.741 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2023-02-24 21:41:31.148 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-02-24 21:41:31.249 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-02-24 21:41:31.263 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2023-02-24 21:41:32.932 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2023-02-24 21:41:33.069 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+2023-02-24 21:41:33.392 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-02-24 21:41:33.797 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-02-24 21:41:33.987 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-02-24 21:41:34.218 [info] Eager extensions activated
+2023-02-24 21:41:34.291 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-02-24 21:41:34.929 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-02-24 21:41:35.056 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-02-24 21:41:35.129 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'onNotebook:*'
+2023-02-24 21:41:35.226 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 21:41:35.302 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 21:41:35.409 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 21:41:35.545 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 21:41:35.743 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2023-02-24 21:41:35.970 [info] ExtensionService#_doActivateExtension miguelsolorio.symbols, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 21:41:36.400 [info] ExtensionService#_doActivateExtension moalamri.inline-fold, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 21:41:36.623 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 21:41:36.865 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 21:41:37.280 [info] ExtensionService#_doActivateExtension WallabyJs.console-ninja, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 21:41:37.462 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-02-24 21:41:39.301 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-02-24 21:41:39.768 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:python'
+2023-02-24 21:41:40.035 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+2023-02-24 21:41:40.557 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 21:41:42.216 [info] ExtensionService#_doActivateExtension ms-python.isort, startup: false, activationEvent: 'onLanguage:python'
+2023-02-24 21:41:42.327 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-02-24 21:41:46.163 [error] Error: Module 'pip' not installed.
+	at Xa.execModule (/home/vinicius/.vscode/extensions/ms-toolsai.jupyter-2023.1.2010391206/out/extension.node.js:2:1806741)
+	at async xl.getPackageInformation (/home/vinicius/.vscode/extensions/ms-toolsai.jupyter-2023.1.2010391206/out/extension.node.js:17:38262)
+2023-02-24 21:43:11.662 [info] Extension host terminating: renderer closed the MessagePort
+2023-02-24 21:43:11.821 [error] An error occurred when deactivating the extension 'moalamri.inline-fold':
+2023-02-24 21:43:11.822 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.deactivate (/home/vinicius/.vscode/extensions/moalamri.inline-fold-0.2.3/out/extension.js:66:13)
+	at f.X (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11042)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:13990)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-02-24 21:43:12.196 [error] Canceled: Canceled
+	at new u (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at cu._clearLatestError (/home/vinicius/.vscode/extensions/wallabyjs.console-ninja-0.0.77/out/extension/index.js:1:876299)
+	at cu.clearInlineMessagesAndLatestError (/home/vinicius/.vscode/extensions/wallabyjs.console-ninja-0.0.77/out/extension/index.js:1:876155)
+	at cu._stopHost (/home/vinicius/.vscode/extensions/wallabyjs.console-ninja-0.0.77/out/extension/index.js:1:887550)
+	at cu.dispose (/home/vinicius/.vscode/extensions/wallabyjs.console-ninja-0.0.77/out/extension/index.js:1:893324)
+	at T (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:13990)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364) setContext undefined
+2023-02-24 21:43:12.199 [error] Canceled: Canceled
+	at new u (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at cu._updateActiveEditorContext (/home/vinicius/.vscode/extensions/wallabyjs.console-ninja-0.0.77/out/extension/index.js:1:863709)
+	at cu.clearInlineMessagesAndLatestError (/home/vinicius/.vscode/extensions/wallabyjs.console-ninja-0.0.77/out/extension/index.js:1:876180)
+	at cu._stopHost (/home/vinicius/.vscode/extensions/wallabyjs.console-ninja-0.0.77/out/extension/index.js:1:887550)
+	at cu.dispose (/home/vinicius/.vscode/extensions/wallabyjs.console-ninja-0.0.77/out/extension/index.js:1:893324)
+	at T (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:13990)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364) setContext undefined
+2023-02-24 21:43:12.202 [error] Canceled: Canceled
+	at new u (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at cu._stopHost (/home/vinicius/.vscode/extensions/wallabyjs.console-ninja-0.0.77/out/extension/index.js:1:887750)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5) setContext undefined
+2023-02-24 21:43:12.329 [info] Extension host with pid 1648 exiting with code 0

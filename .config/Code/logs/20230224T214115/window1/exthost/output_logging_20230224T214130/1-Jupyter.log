@@ -1,0 +1,31 @@
+Visual Studio Code (1.75.1, undefined, desktop)
+Jupyter Extension Version: 2023.1.2010391206.
+Python Extension Version: 2023.2.0.
+No workspace folder opened.
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 21:41:38.395: LSP Notebooks experiment is enabled
+info 21:41:41.561: Find preferred kernel for Untitled-1.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"name":"python","version":"3.10.9"},"orig_nbformat":4,"vscode":{"interpreter":{"hash":"e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a"}}} & preferred interpreter /bin/python
+info 21:41:41.562: Find preferred kernel for Untitled-1.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"name":"python","version":"3.10.9"},"orig_nbformat":4,"vscode":{"interpreter":{"hash":"e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a"}}} & preferred interpreter /bin/python
+info 21:41:41.666: Find preferred kernel for Untitled-1.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"name":"python","version":"3.10.9"},"orig_nbformat":4,"vscode":{"interpreter":{"hash":"e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a"}}} & preferred interpreter /bin/python
+info 21:41:41.669: Preferred kernel .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher is exact match or top match for non python kernels, (true, [object Object], true, false)
+info 21:41:41.669: PreferredConnection: .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher found for NotebookDocument: Untitled-1.ipynb
+info 21:41:41.789: Find preferred kernel for Untitled-1.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"name":"python","version":"3.10.9"},"orig_nbformat":4,"vscode":{"interpreter":{"hash":"e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a"}}} & preferred interpreter /bin/python
+info 21:41:41.835: Preferred kernel .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher is exact match or top match for non python kernels, (false, [object Object], true, false)
+info 21:41:41.836: PreferredConnection: .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher found for NotebookDocument: Untitled-1.ipynb
+info 21:41:44.375: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
+info 21:41:44.968: Process Execution: > /bin/python -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+error 21:41:45.134: interpreterPackages getPackageInformation, Class name = xl, completed in 3543ms, has a falsy return value, Arg 1: {"interpreter":{"id":"/bin/python","sysPrefix":"/usr","displayPath":{"$mid":1,"path":"/bin/python","scheme":"file"},"envName":"","uri":{"$mid":1,"fsPath":"/bin/python","external":"file:///bin/python","path":"/bin/python","scheme":"file"},"displayName":"","envType":"Unknown","version":{"major":3,"minor":10,"patch":9,"raw":"3.10.9 (main, Dec 19 2022, 17:35:49) [GCC 12.2.0]"}}} [Qa [Error]: Module 'pip' not installed.
+	at Xa.execModule (/home/vinicius/.vscode/extensions/ms-toolsai.jupyter-2023.1.2010391206/out/extension.node.js:2:1806741)
+	at async xl.getPackageInformation (/home/vinicius/.vscode/extensions/ms-toolsai.jupyter-2023.1.2010391206/out/extension.node.js:17:38262)] {
+  category: 'notinstalled',
+  moduleName: 'pip'
+}
+info 21:41:45.644: Disposing kernel .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher for notebook Untitled-1.ipynb due to selection of another kernel or closing of the notebook
+info 21:41:45.645: Dispose Kernel 'Untitled-1.ipynb' associated with 'Untitled-1.ipynb'
+info 21:43:11.942: Shutting down notebooks for 4d2d7fb8-560c-4d80-8020-d2856e83f0fe
+info 21:43:11.943: Disposing HostJupyterExecution 2e7a2c64-d75e-4aff-a300-24c5c158c1f8
+info 21:43:11.971: Dispose Kernel 'Untitled-1.ipynb' associated with 'Untitled-1.ipynb'
+info 21:43:11.973: Disposing HostJupyterExecution 2e7a2c64-d75e-4aff-a300-24c5c158c1f8
